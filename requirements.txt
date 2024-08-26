@@ -8,3 +8,9 @@ scipy
 patsy
 scikit-learn
 beautifulsoup4
+pyarrow
+openpyxl
+xlrd
+tables
+requests
+sqlalchemy
